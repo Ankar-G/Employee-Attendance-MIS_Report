@@ -58,7 +58,7 @@ Organizations often maintain attendance records across multiple files, making re
 
 ### Summary
 
-*(Add screenshot here)*
+*(https://github.com/Ankar-G/Employee-Attendance-MIS_Report/blob/main/Screenshots/Summary.png.png)*
 
 ### Employee Leave Report
 
