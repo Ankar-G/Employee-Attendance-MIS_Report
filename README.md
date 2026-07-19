@@ -62,19 +62,23 @@ Organizations often maintain attendance records across multiple files, making re
 
 ### Employee Leave Report
 
-*(Add screenshot here)*
+![Executive Dashboard](https://github.com/Ankar-G/Employee-Attendance-MIS_Report/blob/main/Screenshots/Employee_Leave_Report.png.png)
+
 
 ### Weekly Attendance Report
 
-*(Add screenshot here)*
+![Executive Dashboard](https://github.com/Ankar-G/Employee-Attendance-MIS_Report/blob/main/Screenshots/Summary.png.png)
+
 
 ### Weekly Absenteeism Report
 
-*(Add screenshot here)*
+![Executive Dashboard](https://github.com/Ankar-G/Employee-Attendance-MIS_Report/blob/main/Screenshots/Weekly_Absenteeism_Report.png.png)
+
 
 ### Department Leave Report
 
-*(Add screenshot here)*
+![Executive Dashboard](https://github.com/Ankar-G/Employee-Attendance-MIS_Report/blob/main/Screenshots/Department_Leave_Report.png.png)
+
 
 ## Author
 
