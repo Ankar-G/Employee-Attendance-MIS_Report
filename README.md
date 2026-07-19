@@ -67,7 +67,7 @@ Organizations often maintain attendance records across multiple files, making re
 
 ### Weekly Attendance Report
 
-![Executive Dashboard](https://github.com/Ankar-G/Employee-Attendance-MIS_Report/blob/main/Screenshots/Summary.png.png)
+![Executive Dashboard](https://github.com/Ankar-G/Employee-Attendance-MIS_Report/blob/main/Screenshots/Weekly_Attendance_Report%20(1).png)
 
 
 ### Weekly Absenteeism Report
